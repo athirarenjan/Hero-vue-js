@@ -7,7 +7,7 @@
   </div>
 </template>
 
-<script lang="ts">
+<script>
 import * as HelloWorld from "./components/HelloWorld";
 import HeroList from "@/components/HeroList";
 import HeroDetail from "@/components/HeroDetail";
